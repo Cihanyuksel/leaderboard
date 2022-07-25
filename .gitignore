@@ -1,6 +1,3 @@
-# GIF
-*.gif
-
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
